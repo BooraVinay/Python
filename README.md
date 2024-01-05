@@ -1,6 +1,4 @@
-Certainly! Below is a sample README file for the provided Titanic Classification code:
 
-```markdown
 # Titanic Survival Prediction
 
 ## Overview
