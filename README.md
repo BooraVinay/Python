@@ -29,8 +29,5 @@ The dataset used for training and testing the model is the Titanic dataset, avai
 ## Model
 The classification model used is a RandomForestClassifier from scikit-learn with 100 trees and a random state for reproducibility.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Note: If you don't have a separate license file (`LICENSE`), you can remove the "License" section or provide details about the licensing directly in the README. Adjust the content as needed based on your preferences and project specifics.
+
